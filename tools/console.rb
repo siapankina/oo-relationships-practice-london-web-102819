@@ -40,6 +40,7 @@ puts ""
 puts "checking class Show, on_the_big_scree"
 
 
+ puts sh1.on_the_big_screen
  sh1.on_the_big_screen.each{|m| puts m.movie_name}
 
 
